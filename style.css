@@ -11,11 +11,15 @@ body,html {
 h1 {
   text-align: center;
   color: white;
-  font-size: 44px;
+  font-size: 54px;
   margin-bottom: -15vh;
   margin-left: 50vh;
   background: rgba(0,0,0,0.4);
   width: 50%;
+}
+kbd {
+  text-decoration: underline;
+  font-weight: bold;
 }
 .keys {
   display: flex;
