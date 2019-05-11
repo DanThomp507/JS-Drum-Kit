@@ -66,21 +66,21 @@ kbd {
   color: white;;
 }
 footer {
-    position: fixed;
-    bottom: 0vh;
-    width: 100vw;
-    height: 6vh;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #468499;
-    z-index: 2;
+  position: fixed;
+  bottom: 0vh;
+  width: 100vw;
+  height: 6vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #468499;
+  z-index: 2;
   }
 footer p {
-    text-decoration: none;
-    text-align: center;
-    color: white;
-    margin: 10px;
-    font-weight: bolder;
-    font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  font-weight: bolder;
+  font-size: 24px;
 }
