@@ -46,3 +46,9 @@ kbd {
   border-color: #468499;
   box-shadow: 0 0 1rem #468499;
 }
+.sound {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #ffc600;
+}
