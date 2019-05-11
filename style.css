@@ -13,6 +13,9 @@ h1 {
   color: white;
   font-size: 44px;
   margin-bottom: -15vh;
+  margin-left: 50vh;
+  background: rgba(0,0,0,0.4);
+  width: 50%;
 }
 .keys {
   display: flex;
