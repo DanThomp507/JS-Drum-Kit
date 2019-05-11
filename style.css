@@ -1,5 +1,10 @@
 html {
+  font-family: 'Stylish', sans-serif;
   font-size: 14px;
   background: url(https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-size: cover;
+}
+h1 {
+  text-align: center;
+  color: white;
 }
