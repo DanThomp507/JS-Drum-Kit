@@ -12,6 +12,7 @@ h1 {
   text-align: center;
   color: white;
   font-size: 44px;
+  margin-bottom: -15vh;
 }
 .keys {
   display: flex;
