@@ -40,3 +40,8 @@ kbd {
   color: white;
   background: rgba(0,0,0,0.4);
 }
+.playing {
+  transform: scale(2.1);
+  border-color: #468499;
+  box-shadow: 0 0 1rem #468499;
+}
